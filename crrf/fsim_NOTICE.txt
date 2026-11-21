@@ -1,0 +1,53 @@
+crrf/fsim.py is a Python port of FeatureSIM.m:
+
+https://web.comp.polyu.edu.hk/cslzhang/IQA/FSIM/Files/FeatureSIM.m
+SHA-256 f830fcbe1db957c37f31fc99f3cc48b98d606eed49f757d9a98890e240bd3d89
+
+Notice of FeatureSIM.m
+
+Copyright(c) 2010 Lin ZHANG, Lei Zhang, Xuanqin Mou and David Zhang
+All Rights Reserved.
+
+----------------------------------------------------------------------
+Permission to use, copy, or modify this software and its documentation
+for educational and research purposes only and without fee is here
+granted, provided that this copyright notice and the original authors'
+names appear on all copies and supporting documentation. This program
+shall not be used, rewritten, or adapted as the basis of a commercial
+software or hardware product without first obtaining permission of the
+authors. The authors make no representations about the suitability of
+this software for any purpose. It is provided "as is" without express
+or implied warranty.
+
+Notice of phasecong2 in FeatureSIM.m
+
+Copyright (c) 1996-2009 Peter Kovesi
+School of Computer Science & Software Engineering
+The University of Western Australia
+http://www.csse.uwa.edu.au/
+
+Permission is hereby  granted, free of charge, to any  person obtaining a copy
+of this software and associated  documentation files (the "Software"), to deal
+in the Software without restriction, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+The software is provided "as is", without warranty of any kind.
+
+Notice of lowpassfilter in FeatureSIM.m
+
+Copyright (c) 1999 Peter Kovesi
+School of Computer Science & Software Engineering
+The University of Western Australia
+http://www.csse.uwa.edu.au/
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+The Software is provided "as is", without warranty of any kind.
+

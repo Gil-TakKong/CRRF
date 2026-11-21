@@ -1,0 +1,16 @@
+# Tested with Python 3.11.14 on Windows 11 (AMD Ryzen 5 5600)
+numpy==1.24.3
+numba==0.62.1
+llvmlite==0.45.1
+scipy==1.10.0
+scikit-image==0.22.0
+opencv-python==4.10.0.84
+pandas==2.1.4
+matplotlib==3.8.0
+pillow==12.0.0
+# Dependencies of scikit-image and matplotlib (tested versions, compatible with numpy 1.24.3)
+contourpy==1.2.0
+tifffile==2023.4.12
+imageio==2.33.1
+networkx==3.1
+lazy_loader==0.3
